@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
+    "imagebaseurl":"",
     "name": "Roman Rangel",
     "role": "Frontend Developer",
     "linkedinId":"Your LinkedIn Id",
@@ -104,11 +104,11 @@ let resumeData = {
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
+        "description":"Roman is an amazing front end developer",
         "name":"Some technical guy"
       },
       {
-        "description":"This is a sample testimonial",
+        "description":"Best of the best",
         "name":"Some technical guy"
       }
     ]

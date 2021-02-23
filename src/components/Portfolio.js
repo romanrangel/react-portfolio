@@ -19,10 +19,12 @@ export default class Porfolio extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
-              <a href={item.url} target="_blank">Go to {item.name}</a>
                         </div>
                       </div>
                     </a>
+                  </div>
+                  <div>
+                  <button><a href={item.url} target="_blank">click me</a></button>
                   </div>
                 </div>
               )
