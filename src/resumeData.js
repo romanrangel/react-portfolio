@@ -80,26 +80,26 @@ let resumeData = {
       {
         "name":"MovieTaste",
         "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
-        "url":"https://thebrewbudz.herokuapp.com/landing",
-        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+        "url":"https://claudialhc.github.io/MovieTaste/",
+        "imgurl":"images/portfolio/phontoMovieTaste.jpg"
       },
       {
-        "name":"The Brew Budz",
+        "name":"NoteTaker",
         "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
-        "url":"https://thebrewbudz.herokuapp.com/landing",
-        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+        "url":"https://dry-reaches-22555.herokuapp.com/",
+        "imgurl":"images/portfolio/phontoNotetakes.jpg"
       },
       {
-        "name":"The Brew Budz",
+        "name":"First Portfolio Webpage",
         "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
-        "url":"https://thebrewbudz.herokuapp.com/landing",
-        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+        "url":"https://romanrangel.github.io/romanrangel/",
+        "imgurl":"images/portfolio/phontoFirstweb.jpg"
       },
       {
-        "name":"The Brew Budz",
+        "name":"Eat-Da-Burger",
         "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
-        "url":"https://thebrewbudz.herokuapp.com/landing",
-        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+        "url":"https://polar-tundra-87708.herokuapp.com/",
+        "imgurl":"images/portfolio/phontoEatDaBurger.jpg"
       },
     ],
     "testimonials":[
