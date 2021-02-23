@@ -3,57 +3,50 @@ let resumeData = {
     "name": "Roman Rangel",
     "role": "Frontend Developer",
     "linkedinId":"Your LinkedIn Id",
-    "roleDescription": " with a focus on building and maintaining responsive websites. Proficient in HTML, CSS, and Javascript; plus modern libraries and frameworls like React. Driven and permanently curious, I strive to turn visitors into cutomers and help your business grow.",
+    "roleDescription": "",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/roman-rangel-1039a8200/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/romanrangel",
           "className":"fa fa-github"
         },
         {
           "name":"resume",
-          "url":"http://twitter.com/rbhatia46",
+          "url":"https://drive.google.com/file/d/1znMlL2dK_fyNJo93Bh5w8n5fj74jOeUF/view?usp=sharing",
           "className":"fa fa-folder-open"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"I am an innovative Frontend Developer with a focus on building and maintaining responsive websites. Proficient in HTML, CSS, and Javascript; plus modern libraries and frameworls like React. Driven and permanently curious, I strive to turn visitors into cutomers and help your business grow.",
+    "address":"romanrangel504@gmail.com",
+    "website":"+1 (858) 342 - 9528",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
-      },
-      {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"UNIVERSITY OF CALIFORNIA, SAN DIEGO EXTENSION",
+        "specialization":"CERTIFICATION IN SOFTWARE DEVELOPMENT AND DESIGN.",
+        "MonthOfPassing":"2020 -",
+        "YearOfPassing":"2021",
+        "Achievements":"Certified in the fundamentals of full-stack development."
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"99 CENTS ONLY STORES LLC",
+        "specialization":"MANAGEMENT",
+        "MonthOfLeaving":"2018 -",
+        "YearOfLeaving":"2021",
+        "Achievements":"Accomplished store objectives and sales goals by coordinating with other members of management to enforce policies, procedures, and productivity standards."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"FREELANCE",
+        "specialization":"WEB DESIGN",
+        "MonthOfLeaving":"2020 -",
+        "YearOfLeaving":"PRESENT",
+        "Achievements":"Designed front end code for acquaintances and polished code written by other developers to enhance user satisfaction."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -66,29 +59,48 @@ let resumeData = {
       },
       {
         "skillname":"Reactjs"
-      }
+      },
+      {
+        "skillname":"Javascript"
+      },
+      {
+        "skillname":"Bootstrap"
+      },
+      {
+        "skillname":"Bulma"
+      },
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"The Brew Budz",
+        "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
+        "url":"https://thebrewbudz.herokuapp.com/landing",
+        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"MovieTaste",
+        "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
+        "url":"https://thebrewbudz.herokuapp.com/landing",
+        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"The Brew Budz",
+        "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
+        "url":"https://thebrewbudz.herokuapp.com/landing",
+        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+        "name":"The Brew Budz",
+        "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
+        "url":"https://thebrewbudz.herokuapp.com/landing",
+        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+      },
+      {
+        "name":"The Brew Budz",
+        "description":"AN APP WHERE YOU CAN SEARCH FOR BREWERIES",
+        "url":"https://thebrewbudz.herokuapp.com/landing",
+        "imgurl":"images/portfolio/phontoTheBrewBudz.jpg"
+      },
     ],
     "testimonials":[
       {
